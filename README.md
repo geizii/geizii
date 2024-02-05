@@ -1,12 +1,13 @@
-
-![Code typing-cuate](https://github.com/geizii/geizii/assets/158302313/3f5b0e43-b6b3-4a14-8b2d-cfd9ad749950)
-
+<div>
+  <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/geizii/geizii/assets/158302313/3f5b0e43-b6b3-4a14-8b2d-cfd9ad749950">
 
 <h1>Geiziane Souza ✨</h1>
 <p>Olá ! 
 Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro (UFRJ). Estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER). Sempre fui apaixonada por tecnologia, jogos e design. Hoje meu foco de estudo é voltado para Desenvolvimento Web, onde aprimoro diariamente meus conhecimentos voltados para esta área. </p>
+</div>
 
-  <div align="center">
+
+  <div align="left">
     <a href="https://github.com/geizii">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geizii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geizii&layout=compact&langs_count=7&theme=dracula"/>
