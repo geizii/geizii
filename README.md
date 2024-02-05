@@ -1,3 +1,7 @@
+
+![Code typing-cuate](https://github.com/geizii/geizii/assets/158302313/3f5b0e43-b6b3-4a14-8b2d-cfd9ad749950)
+
+
 <h1>Geiziane Souza ✨</h1>
 <p>Olá ! 
 Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro (UFRJ). Estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER). Sempre fui apaixonada por tecnologia, jogos e design. Hoje meu foco de estudo é voltado para Desenvolvimento Web, onde aprimoro diariamente meus conhecimentos voltados para esta área. </p>
