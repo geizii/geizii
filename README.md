@@ -1,3 +1,7 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://storyset.com/illustration/code-typing/cuate#FF81AEFF&hide=&hide=complete">
+
+
+
 <h1>Quem sou eu ✨</h1>
 Olá, meu nome é Geiziane ! 
 Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro (UFRJ). Estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER). Sempre fui apaixonada por tecnologia, jogos e design. Hoje meu foco de estudo é voltado para Desenvolvimento Web, onde aprimoro diariamente meus conhecimentos voltados para esta área. 
