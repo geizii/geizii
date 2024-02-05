@@ -1,10 +1,7 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://storyset.com/illustration/code-typing/cuate#FF81AEFF&hide=&hide=complete">
+<h1>Geiziane Souza ✨</h1>
+<p>Olá ! 
+Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro (UFRJ). Estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER). Sempre fui apaixonada por tecnologia, jogos e design. Hoje meu foco de estudo é voltado para Desenvolvimento Web, onde aprimoro diariamente meus conhecimentos voltados para esta área. </p>
 
-
-
-<h1>Quem sou eu ✨</h1>
-Olá, meu nome é Geiziane ! 
-Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro (UFRJ). Estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER). Sempre fui apaixonada por tecnologia, jogos e design. Hoje meu foco de estudo é voltado para Desenvolvimento Web, onde aprimoro diariamente meus conhecimentos voltados para esta área. 
   <div align="center">
     <a href="https://github.com/geizii">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geizii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
