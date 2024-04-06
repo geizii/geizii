@@ -27,7 +27,6 @@ Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela 
     
   <div align="center">
     <h2>Aprendendo 📚</h2>
-    
     <img align="center" alt="Geizi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
     <img align="center" alt="Geizi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="Geizi-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
