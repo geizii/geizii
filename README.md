@@ -1,8 +1,6 @@
+
 <div>
-  <img src="https://giphy.com/embed/H4L0ddOWnHUMEJXT9N" width="480" height="424" frameBorder="0" class="giphy-embed" allowFullScreen>
-</div>
-<div>
-# Hi, I'm Geiziane ✨
+#Hi, I'm Geiziane ✨
 <p>Olá ! 
 Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro (UFRJ). Estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional (UNINTER). Sempre fui apaixonada por tecnologia, jogos e design. Hoje meu foco de estudo é voltado para Desenvolvimento Web, onde aprimoro diariamente meus conhecimentos voltados para esta área. </p>
 </div>
