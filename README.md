@@ -1,6 +1,6 @@
 
 <div>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>
+<img width="200" height="200" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>
 <h1 align="center">Hi, I'm Geiziane ✨</h1>
 </div>
 
@@ -38,6 +38,6 @@
   <a href="https://www.linkedin.com/in/geiziane-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>        
   </div>
 
-<div>
-  <img align="center" width="450" height="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
+<div align="center">
+  <img width="650" height="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
 </div>
