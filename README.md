@@ -1,7 +1,7 @@
 
 <div align="center">
 <img width="300" height="200" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
-<h1>Hi, I'm Geiziane ✨</h1>
+<h1>Olá, meu nome é Geiziane ! Seja bem-vindo ! ✨</h1>
 </div>
 
 
