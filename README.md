@@ -5,7 +5,7 @@
 </div>
 <div>
 <h1>Olá, meu nome é Geiziane ! Seja bem-vindo ! ✨</h1>
-  <p>Meu nome é Geiziane,  mas podem me chamar de Geizi, eu estou em transição de carreira. Sempre fui apaixonada por tecnologia desde pequena, mas nunca tinha considerado fazer por achar que eu não me encaixava no curso, acabei cursando Arquitetura e Urbanismo ao me formar percebi que devia e que podia sim ser programadora e aqui estou eu.</p>
+  <p>Me chamo Geiziane, mas podem me chamar de Geizi. Estou em transição de carreira, mas minha paixão por tecnologia vem desde a infância. Inicialmente, não me via como parte desse universo e acabei cursando Arquitetura e Urbanismo. Após me formar, percebi que a programação sempre foi um caminho possível para mim, e foi aí que decidi seguir meu verdadeiro interesse. Hoje, estou determinada a me tornar uma programadora.</p>
 </div>
 
 ## 🔗 Conecte-se comigo
